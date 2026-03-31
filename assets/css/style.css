@@ -538,6 +538,10 @@ nav a:hover {
   font-size: 16px;
 }
 
+.address p {
+  margin-bottom: 2px;
+}
+
 /* =========================
    FOOTER
 ========================= */
