@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/profile",
+      "destination": "/lawyers-jakarta.html",
+      "permanent": true
+    }
+  ]
+}
