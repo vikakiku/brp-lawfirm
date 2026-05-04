@@ -606,6 +606,31 @@ a[href^="mailto"]:hover {
   border-bottom: 1px solid #6f7456;
 }
 
+.article-read-more {
+  font-size: 13px;
+  font-weight: 600;
+  color: #14213d;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+  transition: color 0.3s ease;
+}
+
+.article-read-more:hover {
+  color: #f0b450;
+}
+
+.article-single .article-back {
+  display: inline-block;
+  font-size: 14px;
+  color: #14213d;
+  margin-bottom: 28px;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.article-single .article-back:hover {
+  color: #f0b450;
+}
 
 /* =========================
    responsive design buat di hp
